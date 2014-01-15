@@ -23,7 +23,7 @@ Bundle 'scrooloose/syntastic'
 Bundle 'msanders/snipmate.vim'
 Bundle 'fholgado/minibufexpl.vim'
 filetype plugin indent on
-" map <F2>:NERDTreeToggle<CR>
+
 let mapleader = ","
 let g:mapleader = ","
 map <f2> :NERDTreeToggle<CR>
